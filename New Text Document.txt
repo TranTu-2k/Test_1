@@ -1,1 +1,2 @@
 test github
+đã clone remote repo, chuẩn bị push từ đây
